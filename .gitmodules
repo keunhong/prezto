@@ -28,3 +28,6 @@
 [submodule "modules/prompt/external/powerlevel9k"]
 	path = modules/prompt/external/powerlevel9k
 	url = https://github.com/bhilburn/powerlevel9k.git
+[submodule "modules/prompt/external/agnoster-custom"]
+	path = modules/prompt/external/agnoster-custom
+	url = https://github.com/keunhong/agnoster-zsh-theme.git
